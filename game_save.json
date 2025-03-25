@@ -1,0 +1,20 @@
+{
+    "points": 1,
+    "buildings": {
+        "Farm": {
+            "count": 0,
+            "base_income": 1,
+            "upgrades": 0
+        },
+        "Factory": {
+            "count": 0,
+            "base_income": 5,
+            "upgrades": 0
+        },
+        "Mine": {
+            "count": 0,
+            "base_income": 10,
+            "upgrades": 0
+        }
+    }
+}
